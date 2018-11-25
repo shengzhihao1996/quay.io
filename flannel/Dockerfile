@@ -1,1 +1,2 @@
-FROM  gcr.io/google_containers/kube-state-metrics-amd64:v1.3.1
+FROM  docker pull docker.elastic.co/elasticsearch/elasticsearch:6.5.1
+
