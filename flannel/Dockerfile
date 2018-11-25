@@ -1,2 +1,2 @@
-FROM   docker.elastic.co/elasticsearch/elasticsearch:6.5.1
+FROM  gcr.io/google_samples/k8szk:v2
 
