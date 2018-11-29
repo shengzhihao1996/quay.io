@@ -1,2 +1,1 @@
-FROM  gcr.io/google_samples/k8szk:v2
-
+FROM  quay.io/coreos/kube-state-metrics:v1.3.0
