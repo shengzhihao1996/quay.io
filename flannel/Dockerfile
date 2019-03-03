@@ -1,1 +1,1 @@
-FROM  quay.io/coreos/hyperkube:v1.7.6_coreos.0
+FROM  gcr.io/istio-release/proxyv2:1.0.0-snapshot.1
