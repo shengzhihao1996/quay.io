@@ -1,1 +1,1 @@
-FROM  gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.0
+FROM  gcr.io/istio-release/proxy_init:1.0.0-snapshot.1
