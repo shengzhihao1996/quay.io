@@ -1,1 +1,1 @@
-FROM  gcr.io/istio-release/proxyv2:1.0.0-snapshot.1
+FROM  prom/prometheus:v2.6.0
