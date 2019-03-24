@@ -1,1 +1,1 @@
-FROM  docker.elastic.co/elasticsearch/elasticsearch-oss:6.4.3
+FROM  justwatch/elasticsearch_exporter:1.0.2
