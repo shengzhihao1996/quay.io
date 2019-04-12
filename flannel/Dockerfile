@@ -1,1 +1,1 @@
-FROM  gcr.io/google_samples/k8szk:v3
+FROM  rook/ceph:v0.9.3
