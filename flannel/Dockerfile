@@ -1,1 +1,1 @@
-FROM  	ceph/ceph:v13.2.5-20190319
+FROM  	golang:1.10.2
