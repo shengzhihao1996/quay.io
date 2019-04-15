@@ -1,1 +1,1 @@
-FROM  	golang:1.10.2
+FROM  	gcr.io/google-samples/xtrabackup:1.0
