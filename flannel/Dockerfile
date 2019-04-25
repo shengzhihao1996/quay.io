@@ -1,1 +1,1 @@
-FROM  	 zenko/kafka-manager:1.3.3.18
+FROM  	postgres:9.6.2
